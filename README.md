@@ -1,5 +1,8 @@
 # Проекты Яндекс.Практикум
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме профессии "Аналитик данных".
-1. Определение перспективного тарифа для телеком компании
-2. Определение потенциально популярной компьютерной игры
-3. Анализ сервиса для чтения книг 
+
+| Проект | Описание | Инструменты |
+|:----|:----:|:----------|
+| [Games](https://github.com/Julielaeva/Yandex_projects/blob/main/Games/Games.ipynb) | Определение закономерностей, определяющих успешность игры | Python3: pandas, numpy, scipy (stats), math, matplotlib.pyplot, seaborn |
+| [Telecom](https://github.com/Julielaeva/Yandex_projects/blob/main/Telecom/Telecom_tariffs.ipynb) | Определение наиболее прибыльного тарифа | Python3: pandas, numpy, scipy (stats), math, matplotlib.pyplot |
+| [Books](https://github.com/Julielaeva/Yandex_projects/blob/main/SQL%20requests/SQL.ipynb) | Анализ базы данных сервиса для чтения книг по подписке с помощью SQL  | Python3: pandas, sqlalchemy |
