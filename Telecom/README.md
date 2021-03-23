@@ -12,4 +12,4 @@
 #### Инструменты
 * Jupyter Notebook
 * Python3: pandas, numpy, scipy (stats), math, matplotlib.pyplot
- 
+* Статистический тест ttest_ind 
